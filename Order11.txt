@@ -1,0 +1,3 @@
+Order{id=11, clientId=2, time=2022-05-26T11:14:05.293614}
+Smoked Caviar and Hummus on Pita Toasts , rating=5.0, calories=23.0, proteins=1.0, fats=2.0, sodium=49.0, price=79.0
+Price: 79.0

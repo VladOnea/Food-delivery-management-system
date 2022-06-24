@@ -1,0 +1,5 @@
+Order{id=10, clientId=1, time=2022-05-26T11:01:25.887773200}
+The Original Three-Ingredient Rub , rating=0.0, calories=23.0, proteins=1.0, fats=1.0, sodium=6.0, price=47.0
+Shrimp Sates with Spiced Pistachio Chutney , rating=3.75, calories=23.0, proteins=1.0, fats=2.0, sodium=4.0, price=78.0
+Coriander-Herb Spice Rub , rating=3.75, calories=24.0, proteins=1.0, fats=1.0, sodium=1911.0, price=51.0
+Price: 176.0

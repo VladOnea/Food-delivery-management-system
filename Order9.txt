@@ -1,0 +1,4 @@
+Order{id=9, clientId=1, time=2022-05-26T11:00:39.262806900}
+Spicy Pickled Shallots , rating=0.0, calories=23.0, proteins=1.0, fats=0.0, sodium=162.0, price=78.0
+Ethiopian Spice Tea , rating=5.0, calories=23.0, proteins=1.0, fats=0.0, sodium=13.0, price=49.0
+Price: 127.0
